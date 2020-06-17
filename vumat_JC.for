@@ -1,7 +1,7 @@
 c ======================================================================
 c User Subroutine VUMAT for Johnson-Cook model.
 c All rights of reproduction or distribution in any form are reserved.
-c By Irfan Habeeb CN (PhD, Technion - IIT), cnirfan@gmail.com
+c By Irfan Habeeb CN (PhD, Technion - IIT)
 c ======================================================================
       subroutine vumat(
 C Read only -
